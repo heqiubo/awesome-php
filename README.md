@@ -33,6 +33,10 @@
 
 - [JSON Web Token](http://jwt.io/)- JSON网络令牌库
     - [firebase/php-jwt](https://github.com/firebase/php-jwt) 
+    
+## 权限控制( Permission )
+
+- [heqiubo/think-auth](https://github.com/heqiubo/think-auth) - thinkphp5.1权限认证类
 
 ## 字符串( Strings )
 >解析和操纵字符串的库
