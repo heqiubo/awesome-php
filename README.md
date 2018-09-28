@@ -1,5 +1,10 @@
 # php-library
 
+## ThinkPHP5相关
+- [top-think/think-captcha](https://github.com/top-think/think-captcha) - thinkphp5验证码类库
+- [heqiubo/think-auth](https://github.com/heqiubo/think-auth) - thinkphp5.1权限认证类
+- [heqiubo/think-query-helper](https://github.com/heqiubo/think-query-helper) - thinkphp5.1查询辅助类 
+
 ## HTTP
 
 - [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
@@ -38,9 +43,4 @@
 ## 第三方API( Third Party APIs )
 
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
-
-## thinkphp5
-- [top-think/think-captcha](https://github.com/top-think/think-captcha) - thinkphp5验证码类库
-- [heqiubo/think-auth](https://github.com/heqiubo/think-auth) - thinkphp5.1权限认证类
-- [heqiubo/think-query-helper](https://github.com/heqiubo/think-query-helper) - thinkphp5.1查询辅助类 
 
