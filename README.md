@@ -8,10 +8,6 @@
 
 - [nette/mail](https://github.com/nette/mail) - 一个简单优雅的邮件发送模块
 
-## 图像( Imagery )
-
-- [top-think/think-captcha](https://github.com/top-think/think-captcha) - thinkphp5验证码类库
-
 ## 导航( Navigation )
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - 一个菜单库
@@ -33,10 +29,6 @@
 
 - [JSON Web Token](http://jwt.io/)- JSON网络令牌库
     - [firebase/php-jwt](https://github.com/firebase/php-jwt) 
-    
-## 权限控制( Permission )
-
-- [heqiubo/think-auth](https://github.com/heqiubo/think-auth) - thinkphp5.1权限认证类
 
 ## 字符串( Strings )
 >解析和操纵字符串的库
@@ -46,3 +38,9 @@
 ## 第三方API( Third Party APIs )
 
 - [wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
+
+## thinkphp5
+- [top-think/think-captcha](https://github.com/top-think/think-captcha) - thinkphp5验证码类库
+- [heqiubo/think-auth](https://github.com/heqiubo/think-auth) - thinkphp5.1权限认证类
+- [heqiubo/think-query-helper](https://github.com/heqiubo/think-query-helper) - thinkphp5.1查询辅助类 
+
