@@ -15,7 +15,7 @@
 
 ## 短信( Sms )
 
-- [flc1125/alidayu](https://github.com/flc1125/alidayu) - 阿里大于
+- [MissMyCat/aliyun-sms](https://github.com/MissMyCat/aliyun-sms) - 阿里通信
 
 ## 导航( Navigation )
 
