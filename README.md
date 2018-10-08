@@ -15,7 +15,7 @@
 
 ## 短信( Sms )
 
-- [MissMyCat/aliyun-sms](https://github.com/MissMyCat/aliyun-sms) - 阿里通信
+- [MissMyCat/aliyun-sms](https://github.com/MissMyCat/aliyun-sms) - 阿里短信
 
 ## 导航( Navigation )
 
